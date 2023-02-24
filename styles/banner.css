@@ -1,0 +1,14 @@
+/*pour une classe .classname*/
+
+#banner {
+	height: 75vh;
+	background-image: url("../images/banner.jpg");
+	background-size: cover;
+	background-position: middle;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+	color: white;
+	text-shadow: 2px 1px 1px black;
+}
